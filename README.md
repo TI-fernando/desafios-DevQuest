@@ -1,4 +1,4 @@
-# Bem-vindo aos Meus Exercícios de HTML e CSS
+# Bem-vindo aos Meus Exercícios de HTML e CSS 👨🏻‍💻
 
 Este repositório contém uma série de exercícios de HTML e CSS criados como parte do curso do DevQuest - DevEmDobro. O objetivo desses exercícios é solidificar o conhecimento adquirido, aplicando-o em projetos simples e práticos.
 
@@ -21,4 +21,4 @@ Se você deseja contribuir ou fazer sugestões para aprimorar esses exercícios,
 ---
 <br>
 
-Espero que esses exercícios sejam úteis para consolidar seus conhecimentos em HTML e CSS. Divirta-se codificando!
+Espero que esses exercícios sejam úteis para consolidar seus conhecimentos em HTML e CSS. Divirta-se codificando! ❤
